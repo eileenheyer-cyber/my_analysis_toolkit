@@ -174,7 +174,7 @@ Current prompt files:
 1_horizontal_bar_chart.md
 2_distribution_chart.md
 3_boxplot_comparison.md
-4_scatterplot.md
+4_scatter_plot.md
 5_dashboard_chart_feedback.md
 ```
 
@@ -185,7 +185,7 @@ They are useful for:
 - Ranking charts
 - Salary distributions
 - Group comparisons
-- Scatterplots
+- Scatter_plots
 - Dashboard feedback
 - Portfolio visualizations
 

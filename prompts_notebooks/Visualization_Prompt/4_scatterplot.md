@@ -51,5 +51,6 @@ Title:
 
 Return full Python code only.
 
-Example Chart 
-![Salary vs Demand Scatter Plot](images/salary_vs_demand_scatter.png)
+example chart:
+![Salary vs Demand Scatter](assets/salary_vs_demand_scatter.png)
+
