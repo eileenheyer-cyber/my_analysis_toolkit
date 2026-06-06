@@ -33,7 +33,6 @@ wheels/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # IDE
 .vscode/
